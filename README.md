@@ -11,6 +11,7 @@ To run the test locally, follow these steps.
 sudo dnf install aspell	
 ~~~~~~~~ 
 Once it's installed, run the script "generate_dictionary.sh" in the test folder. It will generate "aspell.txt" with the dictionary words.
+
 3. You'll also need Lua installed.
 ~~~~~~~~
 sudo dnf install lua
